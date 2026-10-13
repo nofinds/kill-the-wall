@@ -1,0 +1,75 @@
+payload:
+  # 媒体与资讯
+  - '+.asahi.com'
+  - '+.bbc'
+  - '+.bbc.co.uk'
+  - '+.bbc.com'
+  - '+.cnn.com'
+  - '+.cnn.io'
+  - '+.deepwiki.com'
+  - '+.yahoo.com'
+
+  # 开源与开发
+  - '+.brew-sh.net'
+  - '+.brew.sh'
+  - '+.debian.org'
+  - '+.raspberrypi.com'
+
+  # 软件与工具
+  - '+.mikrotik.com'
+  - '+.monday.com'
+  - '+.sublimetext.com'
+
+  # 云平台与基础服务
+  - '+.account.sony.com'
+  - '+.amazonaws.com'
+  - '+.auth0.com'
+  - '+.cdn.cookielaw.org'
+  - '+.challenges.cloudflare.com'
+  - '+.cloudflareinsights.com'
+  - '+.he.net'
+  - '+.imanageshare-eu.com'
+  - '+.maxmind.com'
+  - '+.onetrust.com'
+  - '+.sonyentertainmentnetwork.com'
+  - '+.stripe.com'
+  - '+.stripe.network'
+  - '+.stun.cloudflare.com'
+
+  # 金融与投研
+  - '+.aia.com'
+  - '+.blpprofessional.com'
+  - '+.fidelity.com'
+  - '+.prospectusdocs.com'
+  - '+.zacks.com'
+
+  # 运营商与通信
+  - '+.giffgaff.com'
+  - '+.saily.com'
+  - '+.starlink.com'
+
+  # 网络检测与工具
+  - '+.browserleaks.com'
+  - '+.browserleaks.net'
+  - '+.browserleaks.org'
+  - '+.ip.sb'
+  - '+.ipapi.is'
+  - '+.ipcheck.ing'
+  - '+.ipwho.is'
+
+  # 代理与网络规则
+  - '+.clash.md'
+  - '+.kuromis.com'
+
+  # 建筑与设计
+  - '+.detail.de'
+  - '+.pitsou.com'
+  - '+.warchitect.me'
+
+  # 标准与教育
+  - '+.cambridgeenglish.org'
+  - '+.iso.org'
+
+  # 出行与生活
+  - '+.marriott.com'
+  - '+.tesla.com'
