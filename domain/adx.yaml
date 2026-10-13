@@ -1,0 +1,32 @@
+payload:
+  # Google
+  - '+.googleadservices.com'
+  - '+.googlesyndication.com'
+  - '+.doubleclick-cn.net'
+  - '+.doubleclick.net'
+
+  # Baidu
+  - '+.pos.baidu.com'
+  - '+.mobads.baidu.com'
+  - '+.nsclick.baidu.com'
+
+  # Tencent
+  - '+.gdt.qq.com'
+  - '+.gdtimg.com'
+
+  # Alibaba
+  - '+.adashx.m.taobao.com'
+  - '+.adash.m.taobao.com'
+  - '+.adashbc.ut.taobao.com'
+  - '+.tanx.com'
+
+  # LinkedIn
+  - '+.ads.linkedin.com'
+
+  # Singular
+  - '+.singular.net'
+
+  # Snapchat
+  - '+.tr.snapchat.com'
+  - '+.tr6.snapchat.com'
+  - '+.stackadapt.com'
