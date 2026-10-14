@@ -12,6 +12,11 @@ payload:
   - '+.githubusercontent.com'
   - '+.githubassets.com'
   - '+.github.io'
+  - '+.githubapp.com'
+  - '+.octocaptcha.com'
+  - '+.githubcopilot.com'
+  - '+.ghcr.io'
+  - '+.github.dev'
   - '+.azurewebsites.net'
 
   # 2. 建议代理
