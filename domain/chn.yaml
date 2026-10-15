@@ -10,6 +10,8 @@ payload:
   - '+.alipay.com'
   - '+.alicdn.com'
   - '+.aliyuncs.com'
+  - '+.alikunlun.com'
+  - '+.alikunlun.net'
   
   # 小红书
   - '+.xiaohongshu.com'
