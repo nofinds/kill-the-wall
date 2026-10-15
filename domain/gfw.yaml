@@ -7,6 +7,15 @@ payload:
   - '+.whatsappbrand.com'
   - '+.fbcdn.net'
   - '+.meta.ai'
+
+  # x.ai
+  - '+.x.ai'
+  - '+.grok.com'
+  - '+.grokusercontent.com'
+  - '+.grokipedia.com'
+  - '+.grok-sandbox.com'
+  - '+.cursor.sh'
+  - '+.cursor.com'
   
   # 云厂商与安全合规
   - '+.challenges.cloudflare.com'
