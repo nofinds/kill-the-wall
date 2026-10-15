@@ -1,54 +1,27 @@
 payload:
-  # 媒体与资讯
-  - '+.asahi.com'
-  - '+.bbc'
-  - '+.bbc.co.uk'
-  - '+.bbc.com'
-  - '+.cnn.com'
-  - '+.cnn.io'
-  - '+.deepwiki.com'
-  - '+.yahoo.com'
-
-  # 开源与开发
-  - '+.brew-sh.net'
-  - '+.brew.sh'
-  - '+.debian.org'
-  - '+.raspberrypi.com'
-
-  # 软件与工具
-  - '+.mikrotik.com'
-  - '+.monday.com'
-  - '+.sublimetext.com'
-
-  # 云平台与基础服务
-  - '+.account.sony.com'
-  - '+.amazonaws.com'
-  - '+.auth0.com'
-  - '+.cdn.cookielaw.org'
+  # WhatsApp
+  - '+.wa.me'
+  - '+.wl.co'
+  - '+.whatsapp.com'
+  - '+.whatsapp.net'
+  - '+.whatsappbrand.com'
+  - '+.fbcdn.net'
+  - '+.meta.ai'
+  
+  # 云厂商与安全合规
   - '+.challenges.cloudflare.com'
   - '+.cloudflareinsights.com'
-  - '+.he.net'
-  - '+.imanageshare-eu.com'
-  - '+.maxmind.com'
+  - '+.stun.cloudflare.com'
+  - '+.amazonaws.com'
   - '+.onetrust.com'
-  - '+.sonyentertainmentnetwork.com'
+  - '+.cdn.cookielaw.org'
+  - '+.auth0.com'
   - '+.stripe.com'
   - '+.stripe.network'
-  - '+.stun.cloudflare.com'
+  - '+.he.net'
 
-  # 金融与投研
-  - '+.aia.com'
-  - '+.blpprofessional.com'
-  - '+.fidelity.com'
-  - '+.prospectusdocs.com'
-  - '+.zacks.com'
-
-  # 运营商与通信
-  - '+.giffgaff.com'
-  - '+.saily.com'
-  - '+.starlink.com'
-
-  # 网络检测与工具
+  # 网络检测与 IP 画像
+  - '+.maxmind.com'
   - '+.browserleaks.com'
   - '+.browserleaks.net'
   - '+.browserleaks.org'
@@ -57,19 +30,51 @@ payload:
   - '+.ipcheck.ing'
   - '+.ipwho.is'
 
-  # 代理与网络规则
+  # 开源、开发与网络设备
+  - '+.brew.sh'
+  - '+.brew-sh.net'
+  - '+.deepwiki.com'
+  - '+.debian.org'
+  - '+.raspberrypi.com'
+  - '+.sublimetext.com'
+  - '+.mikrotik.com'
+
+  # 企业协作与办公 SaaS
+  - '+.monday.com'
+  - '+.imanageshare-eu.com'
+
+  # 金融、保险与投研
+  - '+.blpprofessional.com'
+  - '+.fidelity.com'
+  - '+.aia.com'
+  - '+.zacks.com'
+  - '+.prospectusdocs.com'
+
+  # 国际媒体与门户
+  - '+.bbc'
+  - '+.bbc.co.uk'
+  - '+.bbc.com'
+  - '+.cnn.com'
+  - '+.cnn.io'
+  - '+.yahoo.com'
+  - '+.asahi.com'
+
+  # 通信、漫游与代理
+  - '+.starlink.com'
+  - '+.giffgaff.com'
+  - '+.saily.com'
   - '+.clash.md'
   - '+.kuromis.com'
 
-  # 建筑与设计
+  # 消费品牌、文娱与出行
+  - '+.account.sony.com'
+  - '+.sonyentertainmentnetwork.com'
+  - '+.tesla.com'
+  - '+.marriott.com'
+
+  # 建筑、学术与标准
   - '+.detail.de'
   - '+.pitsou.com'
   - '+.warchitect.me'
-
-  # 标准与教育
-  - '+.cambridgeenglish.org'
   - '+.iso.org'
-
-  # 出行与生活
-  - '+.marriott.com'
-  - '+.tesla.com'
+  - '+.cambridgeenglish.org'
