@@ -3,15 +3,25 @@ payload:
   - '+.qq.com'
   - '+.qq.com.cn'
   - '+.qpic.cn'
+  - '+.tencent.com'
+  - '+.tencent-cloud.com'
+  - '+.tencent-cloud.net'
+  - '+.qcloud.com'
+  - '+.qcloudcdn.com'
   
   # 阿里巴巴
   - '+.tmall.com'
   - '+.taobao.com'
   - '+.alipay.com'
+  - '+.alipayobjects.com'
   - '+.alicdn.com'
+  - '+.aliyun.com'
   - '+.aliyuncs.com'
   - '+.alikunlun.com'
   - '+.alikunlun.net'
+  - '+.alibabadns.com'
+  - '+.autonavi.com'
+  - '+.amap.com'
   
   # 小红书
   - '+.xiaohongshu.com'
@@ -29,10 +39,11 @@ payload:
 
   # 京东
   - '+.jd.com'
+  - '+.jdpay.com'
   - '+.360buyimg.com'
   
   # 美团点评
   - '+.meituan.com'
-  - '+.dianping.com'
   - '+.meituan.net'
+  - '+.dianping.com'
   - '+.dpfile.com'
