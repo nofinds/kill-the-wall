@@ -1,10 +1,11 @@
 payload:
-  # WhatsApp
+  # WhatsApp & Meta Core
   - '+.wa.me'
   - '+.wl.co'
   - '+.whatsapp.com'
   - '+.whatsapp.net'
-  - '+.whatsappbrand.com'
+  - '+.facebook.net'
+  - '+.facebook.com'
   - '+.fbcdn.net'
   - '+.meta.ai'
 
