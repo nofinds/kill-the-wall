@@ -10,6 +10,7 @@ payload:
   - '+.tencent-cloud.net'
   - '+.qcloud.com'
   - '+.qcloudcdn.com'
+  - '+.myqcloud.com'
   
   # 阿里巴巴
   - '+.tmall.com'
