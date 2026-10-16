@@ -52,3 +52,6 @@ payload:
 
   # 金山
   - '+.ksyuncdn.com'
+
+  # 网宿科技
+  - '+.cdngslb.com'
