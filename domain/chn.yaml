@@ -49,3 +49,6 @@ payload:
   - '+.meituan.net'
   - '+.dianping.com'
   - '+.dpfile.com'
+
+  # 金山
+  - '+.ksyuncdn.com'
