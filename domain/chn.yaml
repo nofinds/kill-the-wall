@@ -17,6 +17,7 @@ payload:
   - '+.tmall.com'
   - '+.taobao.com'
   - '+.tbcdn.cn'
+  - '+.tbcache.com'
   - '+.alipay.com'
   - '+.alipayobjects.com'
   - '+.alibabausercontent.com'
