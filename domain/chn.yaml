@@ -4,6 +4,7 @@ payload:
   - '+.qq.com.cn'
   - '+.qpic.cn'
   - '+.wechatpay.cn'
+  - '+.servicewechat.com'
   - '+.tencent.com'
   - '+.tencentmusic.com'
   - '+.tencent-cloud.com'
@@ -53,6 +54,11 @@ payload:
   - '+.meituan.net'
   - '+.dianping.com'
   - '+.dpfile.com'
+
+  # 滴滴出行
+  - '+.xiaojukeji.com'
+  - '+.diditaxi.com.cn'
+  - '+.didistatic.com'
 
   # 金山
   - '+.ksyuncdn.com'
