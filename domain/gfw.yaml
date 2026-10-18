@@ -27,6 +27,9 @@ payload:
   - '+.cdn.cookielaw.org'
   - '+.auth0.com'
   - '+.he.net'
+
+  # WorkOS, Inc.
+  - 'workos.com'
   
   # Stripe, Inc.
   - '+.stripe.com'
