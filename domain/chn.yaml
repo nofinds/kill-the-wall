@@ -3,6 +3,8 @@ payload:
   - '+.qq.com'
   - '+.qq.com.cn'
   - '+.qpic.cn'
+  - '+.qlogo.cn'
+  - '+.gtimg.cn'
   - '+.wechatpay.cn'
   - '+.servicewechat.com'
   - '+.tencent.com'
