@@ -26,9 +26,12 @@ payload:
   - '+.onetrust.com'
   - '+.cdn.cookielaw.org'
   - '+.auth0.com'
-  - '+.stripe.com'
-  - '+.stripe.network'
   - '+.he.net'
+  
+  # Stripe, Inc.
+  - '+.stripe.com'
+  - '+.stripecdn.com'
+  - '+.stripe.network'
 
   # 网络检测与 IP 画像
   - '+.maxmind.com'
