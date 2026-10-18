@@ -31,6 +31,14 @@ payload:
   - '+.alibabadns.com'
   - '+.autonavi.com'
   - '+.amap.com'
+
+  # Baidu
+  - '+.baidu.com'
+  - '+.bdydns.com'
+  - '+.jomodns.com'
+  - '+.shifen.com'
+  - '+.bdstatic.com'
+  - '+.bcebos.com'
   
   # 小红书
   - '+.xiaohongshu.com'
