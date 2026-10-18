@@ -15,6 +15,7 @@ payload:
   - '+.qcloud.com'
   - '+.qcloudcdn.com'
   - '+.myqcloud.com'
+  - '+.tencentcos.cn'
   
   # 阿里巴巴
   - '+.tmall.com'
@@ -74,6 +75,12 @@ payload:
 
   # 金山
   - '+.ksyuncdn.com'
+  - '+.ks-cdn.com'
 
   # 网宿科技
   - '+.cdngslb.com'
+
+  # Apple
+  - '+.apple-dns.cn'
+  - '+.apple-dns.net'
+  - '+.icloud.com.cn'
