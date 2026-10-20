@@ -30,3 +30,6 @@ payload:
   - '+.tr.snapchat.com'
   - '+.tr6.snapchat.com'
   - '+.stackadapt.com'
+
+  # Meta
+  - '+.netseer-ipaddr-assoc.xy.fbcdn.net'
