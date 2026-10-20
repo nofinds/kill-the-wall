@@ -28,6 +28,8 @@ payload:
   - '+.cdn.cookielaw.org'
   - '+.auth0.com'
   - '+.he.net'
+  - '+.split.io'
+  - '+.intercom.io'
 
   # WorkOS, Inc.
   - 'workos.com'
