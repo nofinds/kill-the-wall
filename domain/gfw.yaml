@@ -19,6 +19,7 @@ payload:
   - '+.cursor.com'
   
   # 云厂商与安全合规
+  - '+.fastly-edge.com'
   - '+.challenges.cloudflare.com'
   - '+.cloudflareinsights.com'
   - '+.stun.cloudflare.com'
