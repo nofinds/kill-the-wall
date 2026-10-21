@@ -17,6 +17,8 @@ payload:
   - '+.grok-sandbox.com'
   - '+.cursor.sh'
   - '+.cursor.com'
+  - '+.cursorvm.com'
+  - '+.cursor-cdn.com'
   
   # 云厂商与安全合规
   - '+.fastly-edge.com'
