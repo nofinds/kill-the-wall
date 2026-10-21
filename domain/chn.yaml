@@ -1,4 +1,18 @@
 payload:
+  # 微软
+  - '+.delivery.mp.microsoft.com'
+  - '+.cdn.office.net'
+  - '+.teams.microsoft.com'
+  - '+.communication.microsoft.com'
+  - '+.manage.microsoft.com'
+  - '+.dm.microsoft.com'
+  - '+.events.data.microsoft.com'
+  - '+.attest.azure.net'
+  - '+.graph.microsoft.com'
+  - '+.windowsupdate.com'
+  - '+.azure.cn'
+  - '+.microsoftonline.cn'
+  
   # 腾讯
   - '+.qq.com'
   - '+.qq.com.cn'
