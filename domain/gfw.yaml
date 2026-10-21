@@ -28,6 +28,12 @@ payload:
   - '+.challenges.cloudflare.com'
   - '+.stun.cloudflare.com'
   - '+.cloudflareinsights.com'
+
+  # Proton
+  - '+.pm.me'
+  - '+.proton.me'
+  - '+.protonmail.ch'
+  - '+.protonmail.com'
   
   # 云厂商与安全合规
   - '+.fastly-edge.com'
