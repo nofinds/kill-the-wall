@@ -34,7 +34,7 @@ payload:
   - '+.intercom.io'
 
   # WorkOS, Inc.
-  - 'workos.com'
+  - '+.workos.com'
   
   # Stripe, Inc.
   - '+.stripe.com'
