@@ -19,13 +19,18 @@ payload:
   - '+.cursor.com'
   - '+.cursorvm.com'
   - '+.cursor-cdn.com'
+
+  # AWS
+  - '+.on.aws'
+  - '+.amazonaws.com'
+
+  # Cloudflare
+  - '+.challenges.cloudflare.com'
+  - '+.stun.cloudflare.com'
+  - '+.cloudflareinsights.com'
   
   # 云厂商与安全合规
   - '+.fastly-edge.com'
-  - '+.challenges.cloudflare.com'
-  - '+.cloudflareinsights.com'
-  - '+.stun.cloudflare.com'
-  - '+.amazonaws.com'
   - '+.onetrust.com'
   - '+.cdn.cookielaw.org'
   - '+.auth0.com'
