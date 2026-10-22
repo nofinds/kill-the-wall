@@ -44,3 +44,8 @@ payload:
 
   # Meta
   - '+.xy.fbcdn.net'
+
+  # 网心云/星域
+  - '+.tianwenca.com'
+  - '+.xyp-n.kuiniuca.com'
+  - '+.data.kuiniuca.com'
