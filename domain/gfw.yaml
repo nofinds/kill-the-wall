@@ -30,6 +30,12 @@ payload:
   - '+.stun.cloudflare.com'
   - '+.cloudflareinsights.com'
 
+  # Okta
+  - '+.okta.com'
+  - '+.oktapreview.com'
+  - 'okta-featureflag-edge.azureedge.net'
+  - '+.auth0.com'
+
   # Proton
   - '+.pm.me'
   - '+.proton.me'
@@ -40,7 +46,6 @@ payload:
   - '+.fastly-edge.com'
   - '+.onetrust.com'
   - '+.cdn.cookielaw.org'
-  - '+.auth0.com'
   - '+.he.net'
   - '+.split.io'
   - '+.intercom.io'
