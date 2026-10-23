@@ -29,6 +29,9 @@ payload:
   # Singular
   - '+.singular.net'
 
+  # Adjust
+  - '+.analytics.adjust.com'
+
   # AppsFlyer
   - '+.appsflyersdk.com'
 
