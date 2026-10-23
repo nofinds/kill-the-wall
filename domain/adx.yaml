@@ -19,6 +19,9 @@ payload:
   - '+.adash.m.taobao.com'
   - '+.adashbc.ut.taobao.com'
   - '+.tanx.com'
+  - 'cnlogs.umeng.com'
+  - 'ulogs.umeng.com'
+  - 'errnewlog.umeng.com'
 
   # LinkedIn
   - '+.ads.linkedin.com'
