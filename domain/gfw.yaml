@@ -25,6 +25,7 @@ payload:
   - '+.amazonaws.com'
 
   # Cloudflare
+  - 'a.nel.cloudflare.com'
   - '+.challenges.cloudflare.com'
   - '+.stun.cloudflare.com'
   - '+.cloudflareinsights.com'
