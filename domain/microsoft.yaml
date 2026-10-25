@@ -30,6 +30,8 @@ payload:
   - '+.skype.com'
   - '+.aka.ms'
   - '+.linkedin.com'
+  - '+.licdn.com'
+  - '+.lnkd.in'
 
   # 3. 建议直连
 #  - '+.microsoft.com'
