@@ -28,6 +28,7 @@ payload:
   - '+.amazonaws.com'
 
   # Fastly
+  - '+.fastly.com'
   - '+.fastly.net'
   - '+.fastly-edge.com'
 
