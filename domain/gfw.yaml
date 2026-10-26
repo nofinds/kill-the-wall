@@ -27,6 +27,10 @@ payload:
   - '+.on.aws'
   - '+.amazonaws.com'
 
+  # Fastly
+  - '+.fastly.net'
+  - '+.fastly-edge.com'
+
   # Cloudflare
   - '+.nel.cloudflare.com'
   - '+.challenges.cloudflare.com'
@@ -45,10 +49,11 @@ payload:
   - '+.protonmail.ch'
   - '+.protonmail.com'
   
-  # 云厂商与安全合规
-  - '+.fastly-edge.com'
+  # OneTrust
   - '+.onetrust.com'
   - '+.cdn.cookielaw.org'
+
+  # Unknown
   - '+.he.net'
   - '+.split.io'
   - '+.intercom.io'
