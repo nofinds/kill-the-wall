@@ -23,6 +23,9 @@ payload:
   - 'ulogs.umeng.com'
   - 'errnewlog.umeng.com'
 
+  # Douyin
+  - '+.pglstatp-toutiao.com'
+
   # LinkedIn
   - '+.ads.linkedin.com'
 
@@ -55,3 +58,7 @@ payload:
   - '+.tianwenca.com'
   - '+.xyp-n.kuiniuca.com'
   - '+.data.kuiniuca.com'
+
+  - '+.inmobi.com'
+  - '+.amazon-adsystem.com'
+  - '+.clarity.ms'
