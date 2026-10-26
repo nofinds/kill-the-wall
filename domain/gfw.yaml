@@ -1,7 +1,4 @@
 payload:
-  # Apple Passkey
-  - 'cable.auth.com'
-  
   # WhatsApp & Meta Core
   - '+.wa.me'
   - '+.wl.co'
