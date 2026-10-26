@@ -30,6 +30,7 @@ payload:
   # Fastly
   - '+.fastly.com'
   - '+.fastly.net'
+  - '+.fastlylb.net'
   - '+.fastly-edge.com'
 
   # Cloudflare
