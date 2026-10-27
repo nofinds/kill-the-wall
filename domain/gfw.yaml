@@ -18,7 +18,7 @@ payload:
   - '+.grokipedia.com'
   - '+.grok-sandbox.com'
 #  - '+.cursor.sh'
-#  - '+.cursor.com'
+   - '+.cursor.com'
 #  - '+.cursorvm.com'
 #  - '+.cursor-cdn.com'
 
