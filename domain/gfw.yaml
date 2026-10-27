@@ -1,5 +1,5 @@
 payload:
-  # WhatsApp & Meta Core
+  # Meta
   - '+.wa.me'
   - '+.wl.co'
   - '+.whatsapp.com'
@@ -8,6 +8,8 @@ payload:
   - '+.facebook.com'
   - '+.fbcdn.net'
   - '+.meta.ai'
+  - '+.instagram.com'
+  - '+.cdninstagram.com'
 
   # x.ai
   - '+.x.ai'
