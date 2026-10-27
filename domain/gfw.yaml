@@ -17,9 +17,9 @@ payload:
   - '+.grokusercontent.com'
   - '+.grokipedia.com'
   - '+.grok-sandbox.com'
-  - '+.cursor.sh'
+#  - '+.cursor.sh'
   - '+.cursor.com'
-  - '+.cursorvm.com'
+#  - '+.cursorvm.com'
   - '+.cursor-cdn.com'
 
   # AWS
