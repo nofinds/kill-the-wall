@@ -19,9 +19,9 @@ payload:
   - '+.adash.m.taobao.com'
   - '+.adashbc.ut.taobao.com'
   - '+.tanx.com'
-  - 'cnlogs.umeng.com'
-  - 'ulogs.umeng.com'
-  - 'errnewlog.umeng.com'
+  - '+.cnlogs.umeng.com'
+  - '+.ulogs.umeng.com'
+  - '+.errnewlog.umeng.com'
   - '+.cnlogs.umengcloud.com'
   - '+.ulogs.umengcloud.com'
 
