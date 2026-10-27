@@ -46,10 +46,6 @@ payload:
   # Sentry
   - '+.ingest.sentry.io'
   - '+.ingest.us.sentry.io'
-  - '+.ingest.de.sentry.io'
-
-  # Hightouch
-  - '+.hightouch-events.com'
 
   # Snapchat
   - '+.tr.snapchat.com'
