@@ -23,6 +23,11 @@ payload:
   - '+.cursorapi.com'
   - '+.cursor-cdn.com'
 
+  # AgileBits (1Password)
+  - '+.agilebits.com'
+  - '+.1password.com'
+  - '+.1passwordservices.com'
+
   # AWS
   - '+.on.aws'
   - '+.amazonaws.com'
