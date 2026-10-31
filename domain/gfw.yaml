@@ -115,6 +115,7 @@ payload:
   # 通信、漫游与代理
   - '+.starlink.com'
   - '+.giffgaff.com'
+  - '+.clubsim.com.hk'
   - '+.saily.com'
   - '+.airalo.com'
   - '+.clash.md'
