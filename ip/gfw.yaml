@@ -5,3 +5,6 @@ payload:
 
   # X / Twitter (IE/EU)
   - 185.45.4.0/22
+
+  # Microsoft AS8075 (bare-IP DIRECT timeouts on household phones)
+  - 150.171.97.0/24
