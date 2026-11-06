@@ -28,6 +28,10 @@ payload:
   - '+.1password.com'
   - '+.1passwordservices.com'
 
+  # Nintendo
+  - '+.nintendo.com'
+  - '+.nintendo.net'
+
   # AWS
   - '+.on.aws'
   - '+.amazonaws.com'
