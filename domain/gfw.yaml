@@ -77,6 +77,13 @@ payload:
   - '+.stripecdn.com'
   - '+.stripe.network'
 
+  # PayPal
+  - '+.paypal.com'
+  - '+.paypalobjects.com'
+  - '+.paypal.me'
+  - '+.pypl.com'
+  - '+.paypal-mktg.com'
+
   # 网络检测与 IP 画像
   - '+.maxmind.com'
   - '+.browserleaks.com'
