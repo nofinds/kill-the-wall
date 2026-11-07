@@ -131,6 +131,7 @@ payload:
   - '+.sonyentertainmentnetwork.com'
   - '+.tesla.com'
   - '+.marriott.com'
+  - '+.arcteryx.com'
 
   # 建筑、学术与标准
   - '+.detail.de'
