@@ -32,6 +32,9 @@ payload:
   - '+.nintendo.com'
   - '+.nintendo.net'
 
+  # Battle.net
+  - '+.battle.net'
+
   # AWS
   - '+.on.aws'
   - '+.amazonaws.com'
