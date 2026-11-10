@@ -22,6 +22,7 @@ payload:
   - '+.wechatpay.cn'
   - '+.servicewechat.com'
   - '+.weixinbridge.com'
+  - '+.weixin.com'
   - '+.tencent.com'
   - '+.tencentmusic.com'
   - '+.tencent-cloud.com'
@@ -44,6 +45,7 @@ payload:
   - '+.aliyuncs.com'
   - '+.alikunlun.com'
   - '+.alikunlun.net'
+  - '+.kunlunca.com'
   - '+.alibabadns.com'
   - '+.autonavi.com'
   - '+.amap.com'
@@ -73,6 +75,11 @@ payload:
   - '+.bytescm.com'
   - '+.bytelb.net'
 
+  # B站
+  - '+.bilibili.com'
+  - '+.bilivideo.com'
+  - '+.hdslb.com'
+
   # 京东
   - '+.jd.com'
   - '+.jdpay.com'
@@ -93,10 +100,22 @@ payload:
   - '+.ksyuncdn.com'
   - '+.ks-cdn.com'
 
-  # 网宿科技
+  # 网宿科技 Quantil
   - '+.cdngslb.com'
+  - '+.qtlcdn.com'
+
+  # 携程
+  - '+.ctrip.com'
 
   # Apple
   - '+.apple-dns.cn'
   - '+.apple-dns.net'
   - '+.icloud.com.cn'
+  - '+.aaplimg.com'
+  - '+.mzstatic.com'
+
+  # Tesla
+  - '+.tesla.cn'
+
+  # IBKR
+  - '+.ibkr.com.cn'
