@@ -110,15 +110,6 @@ payload:
   - '+.monday.com'
   - '+.imanageshare-eu.com'
 
-  # Slack (Salesforce)
-  - '+.slack.com'
-  - '+.slackb.com'
-  - '+.slack-edge.com'
-  - '+.slack-imgs.com'
-  - '+.slack-msgs.com'
-  - '+.slack-files.com'
-  - '+.slack-redir.net'
-
   # 金融、保险与投研
   - '+.blpprofessional.com'
   - '+.fidelity.com'
