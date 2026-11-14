@@ -5,6 +5,9 @@ payload:
 
   # Telegram
   - 194.221.250.50/32
+
+  # Tailscale
+  - 100.64.0.0/10
   
   # X / Twitter
   - 199.59.148.0/22
