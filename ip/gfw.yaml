@@ -1,10 +1,15 @@
 payload:
-  # X / Twitter (US)
+  # Google Public DNS
+  - 8.8.8.8/32
+  - 8.8.4.4/32
+
+  # Telegram
+  - 194.221.250.50/32
+  
+  # X / Twitter
   - 199.59.148.0/22
   - 104.244.40.0/21
-
-  # X / Twitter (IE/EU)
   - 185.45.4.0/22
 
-  # Microsoft AS8075 (bare-IP DIRECT timeouts on household phones)
+  # Microsoft AS8075
   - 150.171.97.0/24
