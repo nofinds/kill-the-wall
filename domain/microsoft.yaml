@@ -12,6 +12,7 @@ payload:
   - '+.azurewebsites.net'
   
   # 2. 建议代理
+  - '+.account.microsoft.com'
   - '+.onenote.com'
   - '+.onenote.net'
   - '+.microsoftpersonalcontent.com'
