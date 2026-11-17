@@ -1,24 +1,16 @@
-payload:
-  # 1. 必走代理
-  - '+.copilot.com'
-  - '+.copilot.microsoft.com'
-  - '+.bing.com'
-  - '+.bing.net'
-  - '+.bingapis.com'
-  - '+.onedrive.com'
-  - '+.1drv.com'
-  - '+.1drv.ms'
+payload:  
+  # GitHub
   - '+.github.com'
   - '+.githubusercontent.com'
   - '+.githubassets.com'
-  - '+.github.io'
-  - '+.githubapp.com'
-  - '+.octocaptcha.com'
   - '+.githubcopilot.com'
-  - '+.ghcr.io'
-  - '+.github.dev'
-  - '+.azurewebsites.net'
 
+  # 1. 必走代理
+  - '+.copilot.cloud.microsoft'
+  - '+.bing.com'
+  - '+.onedrive.com'
+  - '+.azurewebsites.net'
+  
   # 2. 建议代理
   - '+.onenote.com'
   - '+.onenote.net'
