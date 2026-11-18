@@ -5,42 +5,16 @@ payload:
   - '+.githubassets.com'
   - '+.githubcopilot.com'
 
-  # 1. 必走代理
-  - '+.copilot.cloud.microsoft'
+  # LinkedIn
+  - '+.linkedin.com'
+  - '+.licdn.com'
+
+  # PROXY
+  - '+.live.com'
+  - '+.cloud.microsoft'
   - '+.bing.com'
   - '+.onedrive.com'
   - '+.azurewebsites.net'
-  
-  # 2. 建议代理
   - '+.account.microsoft.com'
-  - '+.onenote.com'
-  - '+.onenote.net'
-  - '+.microsoftpersonalcontent.com'
-  - '+.live.com'
-  - '+.live.net'
-  - '+.outlook.com'
-  - '+.hotmail.com'
+#  - '+.microsoftpersonalcontent.com'
   - '+.skype.com'
-  - '+.aka.ms'
-  - '+.linkedin.com'
-  - '+.licdn.com'
-  - '+.lnkd.in'
-
-  # 3. 建议直连
-#  - '+.microsoft.com'
-#  - '+.microsoft'
-#  - '+.microsoftonline.com'
-#  - '+.microsoft365.com'
-#  - '+.office.com'
-#  - '+.office.net'
-#  - '+.office365.com'
-#  - '+.msftauth.net'
-#  - '+.msauth.net'
-#  - '+.msauth.com'
-#  - '+.sfx.ms'
-#  - '+.sharepoint.com'
-#  - '+.sharepointonline.com'
-#  - '+.azure.com'
-#  - '+.azureedge.net'
-#  - '+.windows.net'
-#  - '+.msecnd.net'
