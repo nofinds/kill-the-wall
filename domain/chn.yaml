@@ -1,4 +1,7 @@
 payload:
+  # DigiCert
+  - '+.digicert.cn'
+  
   # 微软
   - '+.delivery.mp.microsoft.com'
   - '+.cdn.office.net'
@@ -50,7 +53,7 @@ payload:
   - '+.autonavi.com'
   - '+.amap.com'
 
-  # Baidu
+  # 百度
   - '+.baidu.com'
   - '+.bdydns.com'
   - '+.jomodns.com'
@@ -101,7 +104,7 @@ payload:
   - '+.ksyuncdn.com'
   - '+.ks-cdn.com'
 
-  # 网宿科技 Quantil
+  # 网宿科技
   - '+.cdngslb.com'
   - '+.qtlcdn.com'
 
@@ -115,14 +118,17 @@ payload:
   - '+.aaplimg.com'
   - '+.mzstatic.com'
 
-  # Tesla
+  # 特斯拉
   - '+.tesla.cn'
 
-  # IBKR
+  # 盈透证券
   - '+.ibkr.com.cn'
 
   # 爱奇艺
   - '+.iqiyi.com'
 
-  # Duolingo
+  # 多邻国
   - '+.duolingo.cn'
+
+  # 中国移动
+  - '+.10086.cn'
