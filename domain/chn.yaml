@@ -117,6 +117,7 @@ payload:
   - '+.icloud.com.cn'
   - '+.aaplimg.com'
   - '+.mzstatic.com'
+  - '+.icloud-content.com.cn'
 
   # 特斯拉
   - '+.tesla.cn'
