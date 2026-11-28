@@ -6,6 +6,6 @@ payload:
   - '+.grok-sandbox.com'
   - '+.cursor.sh'
   - '+.cursor.com'
-  - '+.cursorvm.com'
+#  - '+.cursorvm.com'
   - '+.cursorapi.com'
   - '+.cursor-cdn.com'
